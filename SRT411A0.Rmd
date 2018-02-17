@@ -13,6 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 R Markdown cheat sheet - https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
 ggplot 2 - http://statmodeling.com/best-way-to-add-a-footnote-to-a-plot-created-with-ggplot2.html
 My_knitr.Rmd - by Mike Martin
+A (very) short introduction to R document
 ```
 
 ```The username created for this github account is ldyer1.
