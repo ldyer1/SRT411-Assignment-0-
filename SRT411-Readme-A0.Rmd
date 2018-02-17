@@ -6,4 +6,5 @@ Date Due: Feb 16 2018```
 
 ```The username created for this github account is ldyer1.
 This assignment entails a series of R Programming exercises which include mathematical calculations, matrices, plots and sequences.
+Attribution to: (very) short introduction to R document
 ```
